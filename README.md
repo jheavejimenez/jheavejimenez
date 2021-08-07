@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jheavejimenez&layout=compact&langs_count=10&hide=Batchfile,XSLT,Java,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
+![snake gif](https://github.com/jheavejimenez/jheavejimenez/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--
 **jheavejimenez/jheavejimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
