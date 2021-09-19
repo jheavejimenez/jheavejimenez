@@ -1,7 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jheavejimenez&count_private=true&show_icons=true)
 
-
-
 ![snake gif](https://github.com/jheavejimenez/jheavejimenez/blob/output/github-contribution-grid-snake.gif)
 
 
