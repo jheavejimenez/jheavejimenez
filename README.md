@@ -1,7 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jheavejimenez&layout=compact&langs_count=10&hide=Batchfile,XSLT,Scss,Makefile,shell,dockerfile,HTML,Objective-C,Starlark,Ruby)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jheavejimenez&count_private=true&show_icons=true)
-
 ![snake gif](https://github.com/jheavejimenez/jheavejimenez/blob/output/github-contribution-grid-snake.gif)
 
 
@@ -9,7 +7,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jheavejimenez" alt="jheavejimenez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jheavejimenez&show_icons=true&locale=en" alt="jheavejimenez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jheavejimenez&count_private=true&show_icons=true&locale=en" alt="jheavejimenez" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jheavejimenez&label=Profile%20views&color=0e75b6&style=flat" alt="jheavejimenez" /> </p>
 
