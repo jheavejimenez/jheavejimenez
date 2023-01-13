@@ -1,5 +1,5 @@
 #### 📊 **Github Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jheavejimenez&layout=compact&langs_count=10&hide=Batchfile,XSLT,Scss,Makefile,shell,dockerfile,HTML,Objective-C,Starlark,Ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([[https://github-readme-stats.vercel.app/api](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)/top-langs/?username=jheavejimenez&layout=compact&langs_count=10&hide=Batchfile,XSLT,Scss,Makefile,shell,dockerfile,HTML,Objective-C,Starlark,Ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jheavejimenez" alt="jheavejimenez" /></p>
 
